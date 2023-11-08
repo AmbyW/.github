@@ -1,17 +1,17 @@
 # AmbyW
-<p align="center"> <img src=".assets/AmbyW_transparent_background.png" width="100" alt="AmbyW" /> </p>
+<p align="center"> <img src="../.assets/AmbyW_transparent_background.png" width="100" alt="AmbyW" /> </p>
 
 
 ## Some funny tools 🛠️
- - [Stats 4 Honete](): Customizable web application to show, review and enjoy with stats of HoN MoBa Game.
- - [LoK Contribution](): Symple but functional web app to gather information about land development contribution in League of Kingdoms Game.
+ - [Stats 4 Honete](https://github.com/AmbyW/stats4honete): Customizable web application to show, review and enjoy with stats of HoN MoBa Game.
+ - [LoK Contribution](https://github.com/AmbyW/LoKContribution): Symple but functional web app to gather information about land development contribution in League of Kingdoms Game.
 
 
 ## Some other tools 🛠️
- - [TestConnectionHelper](): Customizable Web applicacion to receive, analyze, response and show information about the request/response process.
+ - [TestConnectionHelper](https://github.com/AmbyW/TestConnectionHelper): Customizable Web applicacion to receive, analyze, response and show information about the request/response process.
 
 
-<p align="center"> <img src=".assets/octocat.png" width="250" alt="AmbyW" /> </p>
+<p align="center"> <img src="../.assets/octocat.png" width="250" alt="AmbyW" /> </p>
 ## Contributors ✨
 
 - - -
