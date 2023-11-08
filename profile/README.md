@@ -1,5 +1,5 @@
 # AmbyW
-<p align="center"> <img src=https://github.com/AmbyW/.github/blob/main/profile/.assets/AmbyW_transparent_background.png" width="110" alt="Logo AmbyW"> </p>
+<p align="center"> <img src="https://github.com/AmbyW/.github/blob/main/profile/.assets/AmbyW_transparent_background.png" width="110" alt="Logo AmbyW"> </p>
 
 ## Some funny tools 🛠️
  - [Stats 4 Honete](https://github.com/AmbyW/stats4honete): Customizable web application to show, review and enjoy with stats of HoN MoBa Game.
