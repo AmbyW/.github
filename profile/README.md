@@ -1,5 +1,5 @@
 # AmbyW
-<p align="center"> <img src=".assets/AmbyW_transparent_background.png" width="100" alt="AmbyW" /> </p>
+<p align="center"> ![AmbyW](/.assets/AmbyW_transparent_background.png) </p>
 
 
 ## Some funny tools 🛠️
@@ -11,12 +11,10 @@
  - [TestConnectionHelper](https://github.com/AmbyW/TestConnectionHelper): Customizable Web applicacion to receive, analyze, response and show information about the request/response process.
 
 
-<p align="center"> <img src=".assets/octocat.png" width="250" alt="AmbyW" /> </p>
+<p align="center"> ![AmbyW octocat](/.assets/octocat.png) </p>
 
 
 ## Contributors ✨
-
-- - -
 
 <table>
     <tbody>
