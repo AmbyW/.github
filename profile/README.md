@@ -32,6 +32,18 @@
                 <a href="#maintenance-reynaldocc" title="Maintenance">🚧</a>
                 <a href="#ideas-reynaldocc" title="Ideas, Planning, & Feedback">🤔</a>
             </td>
+            <td align="center" valign="top" width="14.28%">
+                <a href="http://navegabit01.github.io">
+                    <img src="https://avatars3.githubusercontent.com/u/100026500?s=460&v=4" width="100px;" alt="Reynaldo Cuenca Campos"/>
+                    <br />
+                    <sub>
+                        <b>Luis A. Vidal</b>
+                    </sub>
+                </a>
+                <br />
+                <a href="https://github.com/ambyw/ambyw/commits?author=navegabit01" title="Code">💻</a>
+                <a href="https://github.com/ambyw/ambyw/commits?author=navegabit01" title="Documentation">📖</a>
+            </td>
         </tr>
     </tbody>
 </table>
